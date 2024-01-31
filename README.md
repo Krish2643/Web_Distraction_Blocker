@@ -1,1 +1,1 @@
-# Web_Distraction_Blocker
+# Social_Media_distraction_Blocker
